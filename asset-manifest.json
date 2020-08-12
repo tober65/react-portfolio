@@ -1,26 +1,32 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.e9c91c83.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.e9c91c83.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.d421fcec.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.d421fcec.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/react-portfolio/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.66f9b931.chunk.js": "/react-portfolio/static/js/2.66f9b931.chunk.js",
-    "static/js/2.66f9b931.chunk.js.map": "/react-portfolio/static/js/2.66f9b931.chunk.js.map",
+    "static/js/2.43c258f4.chunk.js": "/react-portfolio/static/js/2.43c258f4.chunk.js",
+    "static/js/2.43c258f4.chunk.js.map": "/react-portfolio/static/js/2.43c258f4.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.aeba7cd2d73daddb2d32cfd802b85bcb.js": "/react-portfolio/precache-manifest.aeba7cd2d73daddb2d32cfd802b85bcb.js",
+    "precache-manifest.7148a498d74cd43fdd9d342ffe470fec.js": "/react-portfolio/precache-manifest.7148a498d74cd43fdd9d342ffe470fec.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/react-portfolio/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/react-portfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.66f9b931.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.66f9b931.chunk.js.LICENSE.txt",
-    "static/media/resume.pdf": "/react-portfolio/static/media/resume.5973eb17.pdf"
+    "static/js/2.43c258f4.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.43c258f4.chunk.js.LICENSE.txt",
+    "static/media/beerfavs.png": "/react-portfolio/static/media/beerfavs.d93c4357.png",
+    "static/media/marvel-match.png": "/react-portfolio/static/media/marvel-match.6c38b0b4.png",
+    "static/media/password_generator.png": "/react-portfolio/static/media/password_generator.7ec92e99.png",
+    "static/media/quiz.png": "/react-portfolio/static/media/quiz.7cb9779a.png",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.5973eb17.pdf",
+    "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.71e1ab4a.png",
+    "static/media/work_day_scheduler_demo.png": "/react-portfolio/static/media/work_day_scheduler_demo.6fc3d273.png"
   },
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.66f9b931.chunk.js",
+    "static/js/2.43c258f4.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e9c91c83.chunk.js"
+    "static/js/main.d421fcec.chunk.js"
   ]
 }
