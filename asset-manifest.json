@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.16e73bd0.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.16e73bd0.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.51c22809.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.51c22809.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/react-portfolio/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.43c258f4.chunk.js": "/react-portfolio/static/js/2.43c258f4.chunk.js",
-    "static/js/2.43c258f4.chunk.js.map": "/react-portfolio/static/js/2.43c258f4.chunk.js.map",
+    "static/js/2.e38b5cfb.chunk.js": "/react-portfolio/static/js/2.e38b5cfb.chunk.js",
+    "static/js/2.e38b5cfb.chunk.js.map": "/react-portfolio/static/js/2.e38b5cfb.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.86c58e40cba568fe7eebb8939a815f33.js": "/react-portfolio/precache-manifest.86c58e40cba568fe7eebb8939a815f33.js",
+    "precache-manifest.6d1787c79960de02740f56b6e0580496.js": "/react-portfolio/precache-manifest.6d1787c79960de02740f56b6e0580496.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/react-portfolio/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/react-portfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.43c258f4.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.43c258f4.chunk.js.LICENSE.txt",
+    "static/js/2.e38b5cfb.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.e38b5cfb.chunk.js.LICENSE.txt",
     "static/media/beerfavs.png": "/react-portfolio/static/media/beerfavs.d93c4357.png",
     "static/media/marvel-match.png": "/react-portfolio/static/media/marvel-match.6c38b0b4.png",
     "static/media/password_generator.png": "/react-portfolio/static/media/password_generator.7ec92e99.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.43c258f4.chunk.js",
+    "static/js/2.e38b5cfb.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.16e73bd0.chunk.js"
+    "static/js/main.51c22809.chunk.js"
   ]
 }
